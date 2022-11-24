@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "7B3HGDD2JS.com.netvirta.passkeysample", "7B3HGDD2JS.com.netvirta.sampleapp" ],
+             "appIDs": [ "7B3HGDD2JS.com.netvirta.passkeysample", "7B3HGDD2JS.com.netvirta.passkeysample-other", "7B3HGDD2JS.com.netvirta.sampleapp" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,10 +28,10 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "7B3HGDD2JS.com.netvirta.passkeysample" ]
+      "apps": [ "7B3HGDD2JS.com.netvirta.passkeysample", "7B3HGDD2JS.com.netvirta.passkeysample-other" ]
    },
 
     "appclips": {
-        "apps": ["7B3HGDD2JS.com.netvirta.passkeysample.clip"]
+        "apps": ["7B3HGDD2JS.com.netvirta.passkeysample.clip", "7B3HGDD2JS.com.netvirta.passkeysample-other.clip"]
     }
 }
